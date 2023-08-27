@@ -1,0 +1,10 @@
+C:\Users\Alex\Documents\discordtools\FireEngine\FireEngine\bin\Debug\FireEngine.exe.config
+C:\Users\Alex\Documents\discordtools\FireEngine\FireEngine\bin\Debug\FireEngine.exe
+C:\Users\Alex\Documents\discordtools\FireEngine\FireEngine\bin\Debug\FireEngine.pdb
+C:\Users\Alex\Documents\discordtools\FireEngine\FireEngine\obj\Debug\FireEngine.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\discordtools\FireEngine\FireEngine\obj\Debug\FireEngine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\Documents\discordtools\FireEngine\FireEngine\obj\Debug\FireEngine.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\discordtools\FireEngine\FireEngine\obj\Debug\FireEngine.exe
+C:\Users\Alex\Documents\discordtools\FireEngine\FireEngine\obj\Debug\FireEngine.pdb
+C:\Users\Alex\Documents\discordtools\FireEngine\FireEngine\obj\Debug\FireEngine.src.FireEngine.Core.FireEngineCanvas.resources
+C:\Users\Alex\Documents\discordtools\FireEngine\FireEngine\obj\Debug\FireEngine.csproj.GenerateResource.cache
